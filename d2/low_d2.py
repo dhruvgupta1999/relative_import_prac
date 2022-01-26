@@ -1,5 +1,5 @@
-# import sys
-# sys.path.append('../')
+import sys
+sys.path.append('../')
 from d1.low import low
 
 l = low()
