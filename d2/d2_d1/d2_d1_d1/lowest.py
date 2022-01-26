@@ -1,5 +1,7 @@
 import sys
 sys.path.append('../../../')
+print("Python version")
+print (sys.version)
 from d1.low import low
 
 l = low()
